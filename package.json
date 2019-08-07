@@ -1,0 +1,29 @@
+{
+  "name": "math-library",
+  "version": "1.0.0",
+  "description": "Math Library",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jshams/currency-conversions.git"
+  },
+  "keywords": [
+    "math",
+    "javascript"
+  ],
+  "author": "Jake Shams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jshams/currency-conversions/issues"
+  },
+  "homepage": "https://github.com/jshams/currency-conversions#readme",
+  "dependencies": {
+    "jest": "^24.8.0"
+  }
+}
