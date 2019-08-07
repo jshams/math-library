@@ -2,7 +2,6 @@
 
 [![Build Status](https://travis-ci.com/jshams/math-library.svg?branch=master)]
 ![Codecov](https://img.shields.io/codecov/c/github/jshams/math-library)
-(https://travis-ci.com/jshams/math-library)
 ![npm](https://img.shields.io/npm/v/makeschool-math)
 ![npm bundle size](https://img.shields.io/bundlephobia/min/makeschool-math)
 
