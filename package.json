@@ -1,5 +1,5 @@
 {
-  "name": "math-library",
+  "name": "makeschool-math",
   "version": "1.0.0",
   "description": "Math Library",
   "main": "index.js",
@@ -25,5 +25,9 @@
   "homepage": "https://github.com/jshams/currency-conversions#readme",
   "dependencies": {
     "jest": "^24.8.0"
+  },
+  "jest": {
+    "coverageDirectory": "./coverage/",
+    "collectCoverage": true
   }
 }
