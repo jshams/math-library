@@ -37,4 +37,3 @@ test('splitby', () => {
     result = num.splitby(5)
     expect(result).toEqual([4.81, 4.81, 4.8, 4.8, 4.8])
 })
-
